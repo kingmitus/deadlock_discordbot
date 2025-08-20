@@ -9,3 +9,5 @@ This bot is intended to put out deadlock stats, as well as give you a
 random build if you want
 
 host on a rasberry pi to run otherwise host it on a server ^_^
+
+the token is a placeholder, insert your own!
